@@ -8,3 +8,5 @@ pycurl==7.43.0.3
 singledispatch==3.4.0.3
 six==1.12.0
 tornado==5.1.1
+fs.smbfs==0.5.2
+paho-mqtt==1.5.0
